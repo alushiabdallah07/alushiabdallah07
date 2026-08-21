@@ -1,6 +1,6 @@
 # Ali Mustapha Abdallah
 
-#### Graduando em Engenharia da Computação — Instituto de Tecnologia e Liderança (Inteli).
+#### Graduando em Engenharia da Computação - Instituto de Tecnologia e Liderança (Inteli).
 
 Olá! Eu sou o **Ali Abdallah**, estudante de Engenharia da Computação no **Inteli**, atualmente no 2º semestre da graduação.
 
@@ -18,7 +18,7 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho como objetivo a
 - 💻 Estudando **Python, JavaScript e SQL**
 - 🚀 Interessado em **Desenvolvimento de Software e Tecnologia**
 - 🧠 Gosto de **resolver problemas e aprender coisas novas**
-- 🏆 3x **Melhor Delegado** em debates
+- 🏆 2x **Melhor Delegado** em debates na Liga Estudantil de Debates
 - 🏅 **Menção Honrosa na OBMEP**
 - 🌎 São Paulo, Brasil
 
