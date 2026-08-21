@@ -42,11 +42,11 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho como objetivo a
 
 ## 🚀 Projetos
 
-### 🛡️ Aplicação Web — Defesa Civil (Projeto acadêmico desenvolvido pelo GitLab do Inteli)
+### 🛡️ Aplicação Web — Defesa Civil (Projeto acadêmico desenvolvido no GitLab do Inteli)
 
 Projeto acadêmico desenvolvido para solucionar um problema relacionado à Defesa Civil, envolvendo o desenvolvimento de uma aplicação web e a estruturação de uma solução tecnológica.
 
-### 🎮 Solução Gamificada — Cobasi (Projeto acadêmico desenvolvido pelo GitLab do Inteli)
+### 🎮 Solução Gamificada — Cobasi (Projeto acadêmico desenvolvido no GitLab do Inteli)
 
 Projeto acadêmico desenvolvido a partir de um desafio relacionado à Cobasi, utilizando conceitos de gamificação para criar uma solução voltada à resolução de um problema real.
 
