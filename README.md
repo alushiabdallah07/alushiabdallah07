@@ -1,8 +1,10 @@
 # Ali Mustapha Abdallah
 
-#### 🎓 Graduando em Engenharia da Computação — Instituto de Tecnologia e Liderança (Inteli).
+#### Graduando em Engenharia da Computação — Instituto de Tecnologia e Liderança (Inteli).
 
 Olá! Eu sou o **Ali Abdallah**, estudante de Engenharia da Computação no **Inteli**, atualmente no 2º semestre da graduação.
+
+Idiomas: inglês (intermediário), espanhol (básico) e árabe (básico)
 
 Sempre tive interesse por tecnologia e, atualmente, estou focado em construir uma base sólida em **programação, desenvolvimento de sistemas e resolução de problemas**. Tenho estudado principalmente **Python, JavaScript e SQL**, buscando evoluir através da faculdade, projetos e estudos próprios.
 
@@ -40,11 +42,11 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho como objetivo a
 
 ## 🚀 Projetos
 
-### 🛡️ Aplicação Web — Defesa Civil
+### 🛡️ Aplicação Web — Defesa Civil (Projeto acadêmico desenvolvido pelo GitLab do Inteli)
 
 Projeto acadêmico desenvolvido para solucionar um problema relacionado à Defesa Civil, envolvendo o desenvolvimento de uma aplicação web e a estruturação de uma solução tecnológica.
 
-### 🎮 Solução Gamificada — Cobasi
+### 🎮 Solução Gamificada — Cobasi (Projeto acadêmico desenvolvido pelo GitLab do Inteli)
 
 Projeto acadêmico desenvolvido a partir de um desafio relacionado à Cobasi, utilizando conceitos de gamificação para criar uma solução voltada à resolução de um problema real.
 
