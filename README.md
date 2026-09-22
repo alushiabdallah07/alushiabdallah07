@@ -42,7 +42,7 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho como objetivo a
 
 ## 🚀 Projetos
 
-### Aplicação Web - Simonu (Próprio de autoria própria) - EM DESENVOLVIMENTO NO GITHUB
+### Aplicação Web - Simonu (Projeto de autoria própria) - EM DESENVOLVIMENTO NO GITHUB
 
 Projeto pessoal desenvolvido para simulações de debate da ONU que avaliam os delegados e rankeam eles para mostrar o desenvolvimento deles conforme as participações nas simulações os delegados obtém. Assim, utilizo de TypeScript e SQL para poder integrar o Backend com o Banco de Dados no Supabase e elaborar o código por trás dessa inovação.
 
