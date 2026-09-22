@@ -44,7 +44,7 @@ Ainda estou no começo da minha jornada na tecnologia, mas tenho como objetivo a
 
 ### Aplicação Web - Simonu (Projeto de autoria própria) - EM DESENVOLVIMENTO NO GITHUB
 
-Sistema de gerenciamento de simulações. Projeto pessoal desenvolvido para simulações de debate da ONU que avaliam os delegados e rankeam eles para mostrar o desenvolvimento deles conforme as participações nas simulações os delegados obtém. Assim, utilizo de TypeScript e SQL para poder integrar o Backend com o Banco de Dados no Supabase e elaborar o código por trás dessa inovação.
+Sistema de gerenciamento de simulações. Projeto pessoal desenvolvido para simulações de debate da ONU que avaliam os delegados e rankeam eles para mostrar o desenvolvimento deles conforme as participações nas simulações os delegados obtém. Assim, utilizo de TypeScript e SQL para poder integrar o Backend com o Banco de Dados no Supabase e elaborar o código por trás dessa inovação. Além disso, utilizo React, Vite e Lucide React para construir o front e testar as funcionalidades e seus comportamentos.
 
 ### 🛡️ Aplicação Web — Defesa Civil (Projeto acadêmico desenvolvido no GitLab do Inteli)
 
